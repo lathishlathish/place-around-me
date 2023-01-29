@@ -28,7 +28,7 @@ map.html<!DOCTYPE html>
 <font color="white"><b>Ariyalur - Cement City</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>GOKUL VIJAYA RAMANUJA  (22009396)</b></font>
+<font color="blue"><b>lathish (22009397)</b></font>
 </h3>
 <center>
 <img src="/static/images/map.PNG" usemap="#MyCity" height="420" width="1100">
@@ -188,22 +188,22 @@ The uses of Washerman's Lake in Ariyalur District are
 ```
 
 ## Output:
-![Output](./screenshorts/1.png)
+![Output](./screenshorts/01.png)
 
-![Output](./screenshorts/2.png)
+![Output](./screenshorts/02.png)
 
-![Output](./screenshorts/3.png)
+![Output](./screenshorts/03.png)
 
-![Output](./screenshorts/4.png)
+![Output](./screenshorts/04.png)
 
-![Output](./screenshorts/5.png)
+![Output](./screenshorts/05.png)
 
-![Output](./screenshorts/6.png)
+![Output](./screenshorts/06.png)
 
 ![Output](./screenshorts/7.png)
 
 ## html validator
-![HTML validator](./screenshorts/QWE.png)
+![HTML validator](./screenshorts/cxz.png)
 
 ## Result:
 The program for implementing image map is executed successfully
