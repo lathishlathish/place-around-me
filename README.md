@@ -18,21 +18,20 @@ Run the Django server  and execute the HTML files
 
 ## Code:
 '''
-map.html
-<!DOCTYPE html>
+map.html<!DOCTYPE html>
 <html lang="en">
 <head>
 <title>My City</title>
 </head>
 <body>
 <h1 align="center">
-<font color="red"><b>Ariyalur - Cement City</b></font>
+<font color="white"><b>Ariyalur - Cement City</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>GOKUL VIJAYA RAMANUNUJA P (22009396)</b></font>
+<font color="blue"><b>GOKUL VIJAYA RAMANUJA  (22009396)</b></font>
 </h3>
 <center>
-<img src="/static/images/map.png" usemap="#MyCity" height="420" width="1100">
+<img src="/static/images/map.PNG" usemap="#MyCity" height="420" width="1100">
 <map name="MyCity">
 <area shape="circle" coords="190,50,20" href="/static/html/ghs.html" title="Govt. Higher Secondary School">
 <area shape="rectangle" coords="230,30,260,60" href="/static/html/rto.html" title="RTO Office">
@@ -137,7 +136,7 @@ ghs.html
 <head>
 <title>Govt. High. Sec. School</title>
 </head>
-<body bgcolor="blue">
+<body bgcolor="white">
 <h1 align="center">
 <font color="red"><b>Ariyalur - Cement City</b></font>
 </h1>
